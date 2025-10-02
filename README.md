@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm Natasha Mohanty, a specialist solutions architect @AWS. I have completed a BSCS degree in Information Internetworks and Aritificial Intelligence from Georgia Tech 🐝. I am currently pursuing my masters in Artificial Intelligence from Georgia Tech.
+I'm Natasha Mohanty, a specialist solutions architect @AWS. I have completed a BSCS degree in Information Internetworks and Aritificial Intelligence from Georgia Tech 🐝.
 - 🛠️ Languages/Frameworks: Python, Java, React, C/C++
 - 🌱 I’m currently learning about Containers and AIML
-- 📫 How to reach me: nmohanty8@gatech.edu and [My Linkedln](https://www.linkedln.com/in/natasha-mohanty/)
+- 📫 How to reach me: [My Linkedln](https://www.linkedln.com/in/natasha-mohanty/)
 
 <!--
 **natmhnty/natmhnty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
